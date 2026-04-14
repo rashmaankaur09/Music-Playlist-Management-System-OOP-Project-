@@ -1,0 +1,21 @@
+//Output
+
+Enter playlist size: 3
+Enter song title: Believer
+Enter artist name: Imagine Dragons
+Enter song title: Shape of You
+Enter artist name: Ed Sheeran
+Enter song title: Blinding Lights
+Enter artist name: The Weeknd
+
+Playlist:
+1. Believer - Imagine Dragons
+2. Shape of You - Ed Sheeran
+3. Blinding Lights - The Weeknd
+
+Shuffling Playlist...
+
+Shuffled Playlist:
+1. Blinding Lights - The Weeknd
+2. Believer - Imagine Dragons
+3. Shape of You - Ed Sheeran
